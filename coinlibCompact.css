@@ -1,0 +1,44 @@
+.head-wrap {
+    display: none;
+}
+
+body { max-width: 900px; line-height:1; padding-top: 20px; }
+
+.sub-header { display: none; }
+
+div.container:nth-child(3) { display: none; }
+
+.table {
+    font-family: "Triplicate T3c","CMU Typewriter Text", "Dejavu Sans Mono", "Hack", "Liberation Mono", monospace !important;
+    font-size: 120% !important;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+    padding: 2px !important;
+}
+div.container:nth-child(4) {
+    display: none !important;
+}
+    
+div.container:nth-child(5) {
+    display: none !important;
+}
+
+.button_trade {
+    display: none !important;
+}
+
+th.text-right:nth-child(7) { display: none !important;}
+th.text-right:nth-child(8) { display: none !important; }
+
+img.tbl-icon { height: 20px!important; width: 20px !important; }
+
+.news,.footer { display: none; }
+div.input-group:nth-child(1) { display: none; }
+
+aspan.tbl-price { display: inline; padding-right: 3px;}
+
+body { margin: auto; }
+
+
