@@ -10,7 +10,7 @@ body, div, form, table, tbody, tr, td, fieldset, ul, li, a,
 #content, #bodyContent{
    background-color: #333 !important;
    background-image: none !important;
-   line-height: 130% !important;
+   line-height: 150% !important;
 }
 
 .mw-body-content sub, .mw-body-content sup, span.reference {
@@ -40,7 +40,7 @@ input, select, button, checkbox{
 
 /* *** Main *** */
 #content{
-   font-family: 'CMU Serif', sans-serif !important; 
+   font-family: 'Dejavu Sans', 'CMU Serif', sans-serif !important; 
    font-size: 13pt !important;
    border: 0 !important;
 }

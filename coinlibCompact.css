@@ -9,7 +9,7 @@ body { max-width: 900px; line-height:1; padding-top: 20px; }
 div.container:nth-child(3) { display: none; }
 
 .table {
-    font-family: "Triplicate T3c","CMU Typewriter Text", "Dejavu Sans Mono", "Hack", "Liberation Mono", monospace !important;
+    font-family: "CMU Typewriter Text","Triplicate T3c", "Dejavu Sans Mono", "Hack", "Liberation Mono", monospace !important;
     font-size: 120% !important;
 }
 
@@ -40,5 +40,3 @@ div.input-group:nth-child(1) { display: none; }
 aspan.tbl-price { display: inline; padding-right: 3px;}
 
 body { margin: auto; }
-
-
